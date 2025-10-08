@@ -98,7 +98,8 @@ Problem: A NameError occurred in the script.
 Solution: Ensure you are using the latest version of the code from the repository. The random module must be imported at the top of main.py.
 📸 Screenshots
 
-<img width="868" height="529" alt="Screenshot 2025-10-08 154033" src="https://github.com/user-attachments/assets/b39c0c3b-cb0b-40cf-a820-38c0d9417fd9" />
+<img width="868" height="529" alt="Screenshot 2025-10-08 154033" src="https://github.com/user-attachments/assets/61935773-d62e-401f-b315-c35b6451d054" />
+
 
 
 🔮 Future Enhancements
