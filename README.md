@@ -97,7 +97,9 @@ Problem: A NameError occurred in the script.
 
 Solution: Ensure you are using the latest version of the code from the repository. The random module must be imported at the top of main.py.
 📸 Screenshots
-<img width="864" height="530" alt="Screenshot 2025-10-08 151537" src="https://github.com/user-attachments/assets/13a99d9a-44bd-465d-a8e6-e4f3ee7e4d61" />
+
+<img width="868" height="529" alt="Screenshot 2025-10-08 154033" src="https://github.com/user-attachments/assets/b39c0c3b-cb0b-40cf-a820-38c0d9417fd9" />
+
 
 🔮 Future Enhancements
  Raw EEG Analysis: Connect directly to the EEG data stream to perform a true P300 wave analysis instead of relying on the proprietary "Attention" metric.
